@@ -11,7 +11,8 @@ This is my cool PCB that I created while learning about PCB's in Solder by Hack 
  - LED x2
  - CR2032 Battery x1 
 
-![solder4](https://github.com/user-attachments/assets/da4ccdaf-f557-42f9-ba27-cdddeeef33c6)
-![solder3](https://github.com/user-attachments/assets/0a4455da-0339-43a3-b437-9e4650d57284)
+![s3](https://github.com/user-attachments/assets/2808c9f9-2316-44d8-a685-e525279fccee)
+![s2](https://github.com/user-attachments/assets/13e6ff7b-9561-4b98-9a33-e2e6508b7984)
+![s1](https://github.com/user-attachments/assets/eb522bf0-f6b3-42bf-b29b-54f23a8e6900)
 ![solder2](https://github.com/user-attachments/assets/f0703df9-27c4-43b0-b146-e412f2dbef9a)
-![solder1](https://github.com/user-attachments/assets/f91e6694-8817-4faf-806c-352a6ac8aa17)
+
