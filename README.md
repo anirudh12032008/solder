@@ -16,3 +16,5 @@ This is my cool PCB that I created while learning about PCB's in Solder by Hack 
 ![s6](https://github.com/user-attachments/assets/5e1f1c60-5370-431e-8cea-d5e75f6db28e)
 ![solder2](https://github.com/user-attachments/assets/f0703df9-27c4-43b0-b146-e412f2dbef9a)
 
+![photo_6102760546496530511_w](https://github.com/user-attachments/assets/72a81629-eb1f-4aca-b9eb-ce2709478868)
+
